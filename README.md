@@ -7,7 +7,7 @@ To write and execute an 8086 assembly language program to check whether a given 
 ---
 
 ## APPARATUS REQUIRED
-- Personal computer 
+- Personal computer with DOSBOX Software 
 
 ---
 
